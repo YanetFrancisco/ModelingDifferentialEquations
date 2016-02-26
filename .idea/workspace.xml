@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12e22410-2780-4aff-81a6-d49ed215d752" name="Default" comment="" />
+    <ignored path="works.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="works" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ModelandoED.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ModelandoED.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="398" column="32" selection-start="12981" selection-end="12981" vertical-scroll-proportion="0.4453925" vertical-offset="729" max-vertical-offset="1562">
+              <folding>
+                <element signature="e#876#1472#0" expanded="false" />
+                <element signature="e#939#1153#0" expanded="false" />
+                <element signature="e#1188#1472#0" expanded="false" />
+                <element signature="e#1514#3308#0" expanded="false" />
+                <element signature="e#1555#2123#0" expanded="false" />
+                <element signature="e#2167#2224#0" expanded="false" />
+                <element signature="e#2255#2273#0" expanded="false" />
+                <element signature="e#2311#2364#0" expanded="false" />
+                <element signature="e#2422#2647#0" expanded="false" />
+                <element signature="e#2700#2860#0" expanded="false" />
+                <element signature="e#2901#2926#0" expanded="false" />
+                <element signature="e#2975#3308#0" expanded="false" />
+                <element signature="e#3146#3277#0" expanded="false" />
+                <element signature="e#3347#6438#0" expanded="false" />
+                <element signature="e#3420#3866#0" expanded="false" />
+                <element signature="e#3907#3927#0" expanded="false" />
+                <element signature="e#3965#4184#0" expanded="false" />
+                <element signature="e#4215#4311#0" expanded="false" />
+                <element signature="e#4351#4473#0" expanded="false" />
+                <element signature="e#4534#6341#0" expanded="false" />
+                <element signature="e#6394#6438#0" expanded="false" />
+                <element signature="e#6480#10199#0" expanded="false" />
+                <element signature="e#6558#6903#0" expanded="false" />
+                <element signature="e#6948#7122#0" expanded="false" />
+                <element signature="e#7167#7331#0" expanded="false" />
+                <element signature="e#7376#7530#0" expanded="false" />
+                <element signature="e#7569#7715#0" expanded="false" />
+                <element signature="e#7754#7772#0" expanded="false" />
+                <element signature="e#7815#7837#0" expanded="false" />
+                <element signature="e#7884#8083#0" expanded="false" />
+                <element signature="e#8136#8527#0" expanded="false" />
+                <element signature="e#8579#8844#0" expanded="false" />
+                <element signature="e#8899#10008#0" expanded="false" />
+                <element signature="e#10052#10173#0" expanded="false" />
+                <element signature="e#10246#11752#0" expanded="false" />
+                <element signature="e#10346#10647#0" expanded="false" />
+                <element signature="e#10678#11022#0" expanded="false" />
+                <element signature="e#11066#11123#0" expanded="false" />
+                <element signature="e#11161#11320#0" expanded="false" />
+                <element signature="e#11361#11386#0" expanded="false" />
+                <element signature="e#11435#11547#0" expanded="false" />
+                <element signature="e#11598#11752#0" expanded="false" />
+                <element signature="e#11792#12487#0" expanded="false" />
+                <element signature="e#11832#12094#0" expanded="false" />
+                <element signature="e#12136#12487#0" expanded="false" />
+                <element signature="e#12524#12947#0" expanded="false" />
+                <element signature="e#12564#12725#0" expanded="false" />
+                <element signature="e#12765#12947#0" expanded="false" />
+                <element signature="e#12987#13383#0" expanded="false" />
+                <element signature="e#13028#13200#0" expanded="false" />
+                <element signature="e#13243#13383#0" expanded="false" />
+                <element signature="e#13431#15122#0" expanded="false" />
+                <element signature="e#13472#14498#0" expanded="false" />
+                <element signature="e#14531#14739#0" expanded="false" />
+                <element signature="e#14767#14840#0" expanded="false" />
+                <element signature="e#14875#14932#0" expanded="false" />
+                <element signature="e#14970#15122#0" expanded="false" />
+                <element signature="e#15168#20687#0" expanded="false" />
+                <element signature="e#15209#15663#0" expanded="false" />
+                <element signature="e#15728#16962#0" expanded="false" />
+                <element signature="e#17027#18582#0" expanded="false" />
+                <element signature="e#18624#20012#0" expanded="false" />
+                <element signature="e#20048#20687#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/nodepy/runge_kutta_method.py" />
+        <option value="C:/Portable Python 2.7.3.2/App/Lib/site-packages/ODESolvers/ODESolvers.py" />
+        <option value="$PROJECT_DIR$/ModelandoED.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Portable Python 2.7.3.2/App/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Portable Python 2.7.3.2/App/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Portable Python 2.7.3.2/App/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scipy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Portable Python 2.7.3.2/App/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodepy-0.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Portable Python 2.7.3.2/App/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ODESolvers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Portable Python 2.7.3.2/App/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Unnamed">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Portable Python 2.7.3.2/App/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="works" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModelandoED.py" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Portable Python 2.7.3.2/App/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="works" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModelandoED.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12e22410-2780-4aff-81a6-d49ed215d752" name="Default" comment="" />
+      <created>1369097573621</created>
+      <updated>1369097573621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19545455" sideWeight="0.6013629" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/ModelandoED.py</url>
+          <line>518</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="31" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ModelandoED.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="398" column="0" selection-start="12949" selection-end="13383" vertical-scroll-proportion="0.0" vertical-offset="1650" max-vertical-offset="1650">
+          <folding>
+            <element signature="e#876#1472#0" expanded="false" />
+            <element signature="e#939#1153#0" expanded="false" />
+            <element signature="e#1188#1472#0" expanded="false" />
+            <element signature="e#1514#3308#0" expanded="false" />
+            <element signature="e#1555#2123#0" expanded="false" />
+            <element signature="e#2167#2224#0" expanded="false" />
+            <element signature="e#2255#2273#0" expanded="false" />
+            <element signature="e#2311#2364#0" expanded="false" />
+            <element signature="e#2422#2647#0" expanded="false" />
+            <element signature="e#2700#2860#0" expanded="false" />
+            <element signature="e#2901#2926#0" expanded="false" />
+            <element signature="e#2975#3308#0" expanded="false" />
+            <element signature="e#3146#3277#0" expanded="false" />
+            <element signature="e#3347#6438#0" expanded="false" />
+            <element signature="e#3420#3866#0" expanded="false" />
+            <element signature="e#3907#3927#0" expanded="false" />
+            <element signature="e#3965#4184#0" expanded="false" />
+            <element signature="e#4215#4311#0" expanded="false" />
+            <element signature="e#4351#4473#0" expanded="false" />
+            <element signature="e#4534#6341#0" expanded="false" />
+            <element signature="e#6394#6438#0" expanded="false" />
+            <element signature="e#6480#10199#0" expanded="false" />
+            <element signature="e#6558#6903#0" expanded="false" />
+            <element signature="e#6948#7122#0" expanded="false" />
+            <element signature="e#7167#7331#0" expanded="false" />
+            <element signature="e#7376#7530#0" expanded="false" />
+            <element signature="e#7569#7715#0" expanded="false" />
+            <element signature="e#7754#7772#0" expanded="false" />
+            <element signature="e#7815#7837#0" expanded="false" />
+            <element signature="e#7884#8083#0" expanded="false" />
+            <element signature="e#8136#8527#0" expanded="false" />
+            <element signature="e#8579#8844#0" expanded="false" />
+            <element signature="e#8899#10008#0" expanded="false" />
+            <element signature="e#10052#10173#0" expanded="false" />
+            <element signature="e#10246#11752#0" expanded="false" />
+            <element signature="e#10346#10647#0" expanded="false" />
+            <element signature="e#10678#11022#0" expanded="false" />
+            <element signature="e#11066#11123#0" expanded="false" />
+            <element signature="e#11161#11320#0" expanded="false" />
+            <element signature="e#11361#11386#0" expanded="false" />
+            <element signature="e#11435#11547#0" expanded="false" />
+            <element signature="e#11598#11752#0" expanded="false" />
+            <element signature="e#11792#12487#0" expanded="false" />
+            <element signature="e#11832#12094#0" expanded="false" />
+            <element signature="e#12136#12487#0" expanded="false" />
+            <element signature="e#12524#12947#0" expanded="false" />
+            <element signature="e#12564#12725#0" expanded="false" />
+            <element signature="e#12765#12947#0" expanded="false" />
+            <element signature="e#12987#13383#0" expanded="false" />
+            <element signature="e#13028#13200#0" expanded="false" />
+            <element signature="e#13243#13383#0" expanded="false" />
+            <element signature="e#13431#15122#0" expanded="false" />
+            <element signature="e#13472#14498#0" expanded="false" />
+            <element signature="e#14531#14739#0" expanded="false" />
+            <element signature="e#14767#14840#0" expanded="false" />
+            <element signature="e#14875#14932#0" expanded="false" />
+            <element signature="e#14970#15122#0" expanded="false" />
+            <element signature="e#15168#20687#0" expanded="false" />
+            <element signature="e#15209#15663#0" expanded="false" />
+            <element signature="e#15728#16962#0" expanded="false" />
+            <element signature="e#17027#18582#0" expanded="false" />
+            <element signature="e#18624#20012#0" expanded="false" />
+            <element signature="e#20048#20687#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelandoED.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="398" column="32" selection-start="12981" selection-end="12981" vertical-scroll-proportion="0.4453925" vertical-offset="729" max-vertical-offset="1562">
+          <folding>
+            <element signature="e#876#1472#0" expanded="false" />
+            <element signature="e#939#1153#0" expanded="false" />
+            <element signature="e#1188#1472#0" expanded="false" />
+            <element signature="e#1514#3308#0" expanded="false" />
+            <element signature="e#1555#2123#0" expanded="false" />
+            <element signature="e#2167#2224#0" expanded="false" />
+            <element signature="e#2255#2273#0" expanded="false" />
+            <element signature="e#2311#2364#0" expanded="false" />
+            <element signature="e#2422#2647#0" expanded="false" />
+            <element signature="e#2700#2860#0" expanded="false" />
+            <element signature="e#2901#2926#0" expanded="false" />
+            <element signature="e#2975#3308#0" expanded="false" />
+            <element signature="e#3146#3277#0" expanded="false" />
+            <element signature="e#3347#6438#0" expanded="false" />
+            <element signature="e#3420#3866#0" expanded="false" />
+            <element signature="e#3907#3927#0" expanded="false" />
+            <element signature="e#3965#4184#0" expanded="false" />
+            <element signature="e#4215#4311#0" expanded="false" />
+            <element signature="e#4351#4473#0" expanded="false" />
+            <element signature="e#4534#6341#0" expanded="false" />
+            <element signature="e#6394#6438#0" expanded="false" />
+            <element signature="e#6480#10199#0" expanded="false" />
+            <element signature="e#6558#6903#0" expanded="false" />
+            <element signature="e#6948#7122#0" expanded="false" />
+            <element signature="e#7167#7331#0" expanded="false" />
+            <element signature="e#7376#7530#0" expanded="false" />
+            <element signature="e#7569#7715#0" expanded="false" />
+            <element signature="e#7754#7772#0" expanded="false" />
+            <element signature="e#7815#7837#0" expanded="false" />
+            <element signature="e#7884#8083#0" expanded="false" />
+            <element signature="e#8136#8527#0" expanded="false" />
+            <element signature="e#8579#8844#0" expanded="false" />
+            <element signature="e#8899#10008#0" expanded="false" />
+            <element signature="e#10052#10173#0" expanded="false" />
+            <element signature="e#10246#11752#0" expanded="false" />
+            <element signature="e#10346#10647#0" expanded="false" />
+            <element signature="e#10678#11022#0" expanded="false" />
+            <element signature="e#11066#11123#0" expanded="false" />
+            <element signature="e#11161#11320#0" expanded="false" />
+            <element signature="e#11361#11386#0" expanded="false" />
+            <element signature="e#11435#11547#0" expanded="false" />
+            <element signature="e#11598#11752#0" expanded="false" />
+            <element signature="e#11792#12487#0" expanded="false" />
+            <element signature="e#11832#12094#0" expanded="false" />
+            <element signature="e#12136#12487#0" expanded="false" />
+            <element signature="e#12524#12947#0" expanded="false" />
+            <element signature="e#12564#12725#0" expanded="false" />
+            <element signature="e#12765#12947#0" expanded="false" />
+            <element signature="e#12987#13383#0" expanded="false" />
+            <element signature="e#13028#13200#0" expanded="false" />
+            <element signature="e#13243#13383#0" expanded="false" />
+            <element signature="e#13431#15122#0" expanded="false" />
+            <element signature="e#13472#14498#0" expanded="false" />
+            <element signature="e#14531#14739#0" expanded="false" />
+            <element signature="e#14767#14840#0" expanded="false" />
+            <element signature="e#14875#14932#0" expanded="false" />
+            <element signature="e#14970#15122#0" expanded="false" />
+            <element signature="e#15168#20687#0" expanded="false" />
+            <element signature="e#15209#15663#0" expanded="false" />
+            <element signature="e#15728#16962#0" expanded="false" />
+            <element signature="e#17027#18582#0" expanded="false" />
+            <element signature="e#18624#20012#0" expanded="false" />
+            <element signature="e#20048#20687#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

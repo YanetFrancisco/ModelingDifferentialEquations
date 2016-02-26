@@ -1,0 +1,114 @@
+<ui version="4.0" >
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>575</width>
+    <height>472</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget" >
+   <widget class="QGroupBox" name="controles" >
+    <property name="geometry" >
+     <rect>
+      <x>20</x>
+      <y>30</y>
+      <width>141</width>
+      <height>341</height>
+     </rect>
+    </property>
+    <property name="title" >
+     <string>Controles</string>
+    </property>
+    <widget class="QPushButton" name="dominio" >
+     <property name="geometry" >
+      <rect>
+       <x>30</x>
+       <y>30</y>
+       <width>71</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <property name="text" >
+      <string/>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsView" >
+    <property name="geometry" >
+     <rect>
+      <x>190</x>
+      <y>40</y>
+      <width>341</width>
+      <height>351</height>
+     </rect>
+    </property>
+    <property name="dragMode" >
+     <enum>QGraphicsView::NoDrag</enum>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="aceptar" >
+    <property name="geometry" >
+     <rect>
+      <x>420</x>
+      <y>400</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text" >
+     <string>Aceptar</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="insertLine" >
+    <property name="geometry" >
+     <rect>
+      <x>460</x>
+      <y>10</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text" >
+     <string>Insertar</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar" >
+   <property name="geometry" >
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>575</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuMenu" >
+    <property name="title" >
+     <string>Menu</string>
+    </property>
+    <addaction name="actionParametros" />
+    <addaction name="actionCondiciones" />
+   </widget>
+   <addaction name="menuMenu" />
+  </widget>
+  <widget class="QStatusBar" name="statusbar" />
+  <action name="actionParametros" >
+   <property name="text" >
+    <string>Parametros</string>
+   </property>
+  </action>
+  <action name="actionCondiciones" >
+   <property name="text" >
+    <string>Condiciones</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

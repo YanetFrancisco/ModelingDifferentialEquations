@@ -1,0 +1,41 @@
+<ui version="4.0" >
+ <class>Parametros</class>
+ <widget class="QDialog" name="Parametros" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>340</width>
+    <height>104</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Parametros</string>
+  </property>
+  <widget class="QLineEdit" name="lineParametros" >
+   <property name="geometry" >
+    <rect>
+     <x>30</x>
+     <y>20</y>
+     <width>241</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="aceptarParametros" >
+   <property name="geometry" >
+    <rect>
+     <x>210</x>
+     <y>60</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text" >
+    <string>Aceptar</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

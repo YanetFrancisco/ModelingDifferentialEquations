@@ -1,0 +1,67 @@
+<ui version="4.0" >
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>709</width>
+    <height>455</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Modelando Ecuaciones Diferenciales</string>
+  </property>
+  <widget class="QGroupBox" name="controles" >
+   <property name="geometry" >
+    <rect>
+     <x>40</x>
+     <y>20</y>
+     <width>121</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <property name="title" >
+    <string>Controles</string>
+   </property>
+  </widget>
+  <widget class="QWidget" native="1" name="widget" >
+   <property name="geometry" >
+    <rect>
+     <x>210</x>
+     <y>40</y>
+     <width>401</width>
+     <height>341</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="aceptar" >
+   <property name="geometry" >
+    <rect>
+     <x>480</x>
+     <y>410</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text" >
+    <string>Aceptar</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="cancelar" >
+   <property name="geometry" >
+    <rect>
+     <x>570</x>
+     <y>410</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text" >
+    <string>Cancelar</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
